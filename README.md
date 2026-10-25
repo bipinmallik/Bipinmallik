@@ -45,7 +45,7 @@ Currently working as a **freelancer**, building web applications and digital sol
 ## GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=itsmebipiin&show_icons=true&theme=transparent&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api?username=bipinmallik&show_icons=true&theme=transparent&hide_border=true" height="150" />
 </p>
 
 ---
