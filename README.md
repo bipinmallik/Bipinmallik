@@ -53,7 +53,7 @@ Currently working as a **freelancer**, building web applications and digital sol
 ## Contact
 
 GitHub: https://github.com/Itsmebipiin  
-Portfolio: https://webstudio-elevate.vercel.app/  
+Portfolio: https://bipinmallik.github.io/  
 LinkedIn: https://linkedin.com/in/bipin-mallik  
 LeetCode: https://leetcode.com/u/bipin_mallik/  
 Email: bipinmallik1742@gmail.com
