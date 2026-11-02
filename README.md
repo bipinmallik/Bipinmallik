@@ -52,7 +52,7 @@ Currently working as a **freelancer**, building web applications and digital sol
 
 ## Contact
 
-GitHub: https://github.com/Itsmebipiin  
+GitHub: https://github.com/bipinmallik  
 Portfolio: https://bipinmallik.github.io/  
 LinkedIn: https://linkedin.com/in/bipin-mallik  
 LeetCode: https://leetcode.com/u/bipin_mallik/  
